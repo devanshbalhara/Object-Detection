@@ -1,0 +1,11 @@
+body {
+    background-image: url(content/background.png);
+}
+
+h1 {
+    font-family: "Audiowide", sans-serif;
+}
+
+p {
+    color: green;
+}
